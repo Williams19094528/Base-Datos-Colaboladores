@@ -1,6 +1,15 @@
 <<<<<<< HEAD
 # React + Vite
 
+Saludos Diego , espero estes bien . Este seria el link directo para ver la pagina  https://williams19094528.github.io/Base-Datos-Colaboladores/
+
+Agregue la opcion de que por cada incorporacion de un colaborador se generara un Id exclusivo
+
+
+
+
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
